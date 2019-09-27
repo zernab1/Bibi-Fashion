@@ -1,0 +1,45 @@
+<style>
+.nav a {
+  color: #5a5a5a;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+ 
+}
+
+.nav li {
+  display: inline;
+  background-color: #BEF781;
+  font-size: 35px;
+   font-family:"Arial", Times, serif;
+}
+
+.jumbotron {
+  background-image:url('http://i62.tinypic.com/xgfg5y.jpg');
+  height: 500px;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:340px;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 60px;  
+  font-family:  sans-serif;
+  text-align: center;
+  font-weight: italics;
+}
+
+.jumbotron p {
+  color: black;
+  position: relative;
+  bottom: 30px;
+  text-align: center;
+  font-size: 28px;
+}
+
+
+</style>
